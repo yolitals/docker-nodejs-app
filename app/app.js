@@ -1,4 +1,4 @@
-const app_values = require('./constants').app_values;
+const app_values = require('./constants');
 const express = require('express');
 const app = express();
 const router = express.Router();
